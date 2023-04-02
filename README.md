@@ -8,7 +8,6 @@
 
 ## Table of Contents (Optional)
 
-- [Portfolio](#Portfolio)
 - [Description](#Description)
 - [Hosting](#Hosting)
 - [Screenshot](#Screenshot)
