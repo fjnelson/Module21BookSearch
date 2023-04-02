@@ -14,7 +14,9 @@
 - [Screenshot](#Screenshot)
 - [Installation](#Installing)
 - [License](#License)
-# Portfolio
+# Module Challenge 21 - Book Search Engine
+
+This application updates from RESTful API practices to a GraphQL API, implements an Apollo Server, and applies it to the Express server as middleware.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
